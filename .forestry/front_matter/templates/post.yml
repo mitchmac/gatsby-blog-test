@@ -18,3 +18,5 @@ fields:
     min: 
     max: 
     step: 
+pages:
+- content/test-number.md
