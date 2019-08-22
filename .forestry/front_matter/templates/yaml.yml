@@ -1,4 +1,19 @@
 ---
 label: YAML
 hide_body: true
-fields: []
+fields:
+- name: coordinates
+  type: field_group
+  config: {}
+  fields:
+  - name: latitude
+    type: number
+    label: Latitude
+    description: ''
+    default: "-160.4"
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
+  label: Coordinates
