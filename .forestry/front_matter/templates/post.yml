@@ -8,3 +8,13 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: test_number
+  type: number
+  label: Test number
+  description: ''
+  default: "-10"
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
