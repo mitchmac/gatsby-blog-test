@@ -17,3 +17,5 @@ fields:
       max: 
       step: 
   label: Coordinates
+pages:
+- test.yaml
