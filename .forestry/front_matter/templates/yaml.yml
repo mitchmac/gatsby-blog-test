@@ -17,17 +17,6 @@ fields:
       max: 
       step: 
   label: Coordinates
-- name: num
-  type: number
-  label: num
-  description: ''
-  default: 0
-  required: true
-  config:
-    min: 
-    max: 
-    step: 
 pages:
-- yaml4.yaml
-- yaml3.yaml
+- test-1.yaml
 - test.yaml
