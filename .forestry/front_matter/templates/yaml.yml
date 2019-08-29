@@ -18,4 +18,5 @@ fields:
       step: 
   label: Coordinates
 pages:
+- yaml3.yaml
 - test.yaml
