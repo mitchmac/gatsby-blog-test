@@ -28,5 +28,6 @@ fields:
     max: 
     step: 
 pages:
+- yaml4.yaml
 - yaml3.yaml
 - test.yaml
