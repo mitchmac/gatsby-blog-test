@@ -18,6 +18,7 @@ fields:
       step: 
   label: Coordinates
 pages:
+- content/blog/Yamlyaml.yaml
 - moyaml.yaml
 - test-1.yaml
 - test.yaml
