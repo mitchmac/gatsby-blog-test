@@ -19,4 +19,5 @@ fields:
     max: 
     step: 
 pages:
+- content/new-post.md
 - content/test-number.md
