@@ -23,6 +23,8 @@ fields:
     required: false
   label: CamelCase
 pages:
+- content/blog/test.yaml
+- content/blog/Yamlyaml.yaml
 - test.yaml
 - test-1.yaml
 - moyaml.yaml
