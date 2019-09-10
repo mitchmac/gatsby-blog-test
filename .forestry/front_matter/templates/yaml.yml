@@ -23,14 +23,14 @@ fields:
     required: false
   label: CamelCase
 pages:
-- test.yaml
-- yaml3.yaml
-- yaml4.yaml
-- moyaml.yaml
-- test-1.yaml
-- content/blog/test.yaml
-- content/blog/Yamlyaml.yaml
 - content/blog/camel.yaml
+- content/blog/Yamlyaml.yaml
+- content/blog/test.yaml
+- test-1.yaml
+- moyaml.yaml
+- yaml4.yaml
+- yaml3.yaml
+- test.yaml
 - content/blog/test.yaml
 - content/blog/Yamlyaml.yaml
 - content/blog/camel.yaml
