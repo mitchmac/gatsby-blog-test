@@ -69,3 +69,16 @@ yarn-error.log
 .yarn-integrity
 
 .idea/
+
+**/*.env
+**/*certificate.pem
+**/*key.pem
+**/*auth.pem
+/cmd/server/server
+**/*.DS_Store
+/tmp
+**/*build
+**/*node_modules
+**/*compiled.yaml
+**/*compiled.json
+**/*swagger.json
