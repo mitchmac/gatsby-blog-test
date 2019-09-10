@@ -23,6 +23,9 @@ fields:
     required: false
   label: CamelCase
 pages:
+- content/blog/camel.yaml
+- content/blog/Yamlyaml.yaml
+- content/blog/test.yaml
 - content/blog/test.yaml
 - test-1.yaml
 - moyaml.yaml
